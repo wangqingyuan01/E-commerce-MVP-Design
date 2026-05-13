@@ -31,8 +31,7 @@
 
 ### 业务逻辑流程图 (Flowchart)
 梳理了从进入详情页到支付完成的全链路逻辑分支，包括库存校验与异常处理状态。
-![电商核心交易链路流程图](./assets/流程图.png)
-*(注：若图片无法显示，请检查文件路径)*
+![电商核心交易链路流程图](./assets/flowchart.png)
 
 ###  Figma 高保真交互原型 (Interactive Prototype)
 基于 Figma Auto Layout 构建的响应式购物界面，包含 SPU/SKU 联动逻辑与核心转化路径。
